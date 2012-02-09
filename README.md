@@ -57,7 +57,8 @@ PEDANTRY
 H8TERS
 
 STEREOTYPING
-AN MANTRA
+
+### AN MANTRA
 
 I AM BROCEPHUS. I AM MY BRO'S KEEPER. EVERY DAY I SHALL STRIVE TO
 HONOR THE BROCODE.
@@ -66,20 +67,11 @@ HONOR THE BROCODE.
 JOIN US
 
 
-SIGNED,
-A BRO
-
-ADDENDUM
-
-BRO POWERS ACTIVATE
-tumblr_lyusgrB3LR1qeia96o1_500.gif
-(thanks John)
-
-SIGNED,%%%
+SIGNED,  
 [A BRO](http://www.twitter.com/philiph)
 
 ### ADDENDUM
 
 BRO POWERS ACTIVATE  
-(http://24.media.tumblr.com/tumblr_lyusgrB3LR1qeia96o1_500.gif)  
+![UNITY](http://24.media.tumblr.com/tumblr_lyusgrB3LR1qeia96o1_500.gif)  
 (thanks [John](http://www.twitter.com/strife25))
