@@ -1,11 +1,11 @@
-### BROFESTO
+## BROFESTO
 
-## PEOPLE OF EARTH: IT IS TIME FOR US TO GATHER IN A COMMON CAUSE
+### PEOPLE OF EARTH: IT IS TIME FOR US TO GATHER IN A COMMON CAUSE
 
 Too long have we let our divisions define us. Sysadmins. Windows
 Admins. Developers. Programmers. DevOps. NoOps. MySQL. NoSQL.
 
-## THIS MUST END
+### THIS MUST END
 
 We must gather together for in unity there is strength. Our banner
 shall be BroOps.
@@ -18,7 +18,7 @@ MANAGERS CAN BE BROS.
 
 BROS ARE NOT GUYS. BROS ARE FRIENDS, REGARDLESS OF GENDER.
 
-## BroOps Is
+### BroOps Is
 
 GOT YOUR BACK
 
@@ -38,7 +38,7 @@ CONSCIOUS CHOICE
 
 EMACS AND VI
 
-## BroOps Is Not
+### BroOps Is Not
 
 D-BAGGERY
 
@@ -78,7 +78,7 @@ tumblr_lyusgrB3LR1qeia96o1_500.gif
 SIGNED,%%%
 [A BRO](http://www.twitter.com/philiph)
 
-## ADDENDUM
+### ADDENDUM
 
 BRO POWERS ACTIVATE  
 (http://24.media.tumblr.com/tumblr_lyusgrB3LR1qeia96o1_500.gif)  
